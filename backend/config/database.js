@@ -1,6 +1,6 @@
 const express = require('express');
 require('dotenv').config();
-const { MongoCLent } = require('mongodb');
+const { MongoClient } = require('mongodb');
 
 const id = encodeURIComponent(process.env.MONGO_ID);
 const password = encodeURIComponent(process.env.MONGO_PASSWORD);
@@ -13,7 +13,7 @@ let db;
 const connectDB = async () => {
     try {
         if(db) return db;
-        const client = await new MongoCLent(url).connect();
+        const client = await new MongoClient(url).connect();
         db = client.db('forum');
         console.log('DB연결 성공');
 
@@ -25,4 +25,4 @@ const connectDB = async () => {
     
 }
 
-module.exports = connectDB();
+module.exports = connectDB;
