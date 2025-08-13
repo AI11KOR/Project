@@ -1,0 +1,178 @@
+[
+    {
+      "id": 10,
+      "category": "cloth",
+      "name": "Cloth 상품 1",
+      "description": "Cloth 카테고리의 상품 1입니다.",
+      "price": 11000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth1.jpg"
+    },
+    {
+      "id": 11,
+      "category": "cloth",
+      "name": "Cloth 상품 2",
+      "description": "Cloth 카테고리의 상품 2입니다.",
+      "price": 12000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth2.jpg"
+    },
+    {
+      "id": 12,
+      "category": "cloth",
+      "name": "Cloth 상품 3",
+      "description": "Cloth 카테고리의 상품 3입니다.",
+      "price": 13000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth3.jpg"
+    },
+    {
+      "id": 13,
+      "category": "cloth",
+      "name": "Cloth 상품 4",
+      "description": "Cloth 카테고리의 상품 4입니다.",
+      "price": 14000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth4.jpg"
+    },
+    {
+      "id": 14,
+      "category": "cloth",
+      "name": "Cloth 상품 5",
+      "description": "Cloth 카테고리의 상품 5입니다.",
+      "price": 15000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth5.jpg"
+    },
+    {
+      "id": 15,
+      "category": "cloth",
+      "name": "Cloth 상품 6",
+      "description": "Cloth 카테고리의 상품 6입니다.",
+      "price": 16000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth6.jpg"
+    },
+    {
+      "id": 16,
+      "category": "cloth",
+      "name": "Cloth 상품 7",
+      "description": "Cloth 카테고리의 상품 7입니다.",
+      "price": 17000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth7.jpg"
+    },
+    {
+      "id": 17,
+      "category": "cloth",
+      "name": "Cloth 상품 8",
+      "description": "Cloth 카테고리의 상품 8입니다.",
+      "price": 18000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth8.jpg"
+    },
+    {
+      "id": 18,
+      "category": "cloth",
+      "name": "Cloth 상품 9",
+      "description": "Cloth 카테고리의 상품 9입니다.",
+      "price": 19000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth9.jpg"
+    },
+    {
+      "id": 19,
+      "category": "cloth",
+      "name": "Cloth 상품 10",
+      "description": "Cloth 카테고리의 상품 10입니다.",
+      "price": 20000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth10.jpg"
+    },
+    {
+      "id": 20,
+      "category": "cloth",
+      "name": "Cloth 상품 11",
+      "description": "Cloth 카테고리의 상품 11입니다.",
+      "price": 21000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth11.jpg"
+    },
+    {
+      "id": 21,
+      "category": "cloth",
+      "name": "Cloth 상품 12",
+      "description": "Cloth 카테고리의 상품 12입니다.",
+      "price": 22000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth12.jpg"
+    },
+    {
+      "id": 22,
+      "category": "cloth",
+      "name": "Cloth 상품 13",
+      "description": "Cloth 카테고리의 상품 13입니다.",
+      "price": 23000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth13.png"
+    },
+    {
+      "id": 23,
+      "category": "cloth",
+      "name": "Cloth 상품 14",
+      "description": "Cloth 카테고리의 상품 14입니다.",
+      "price": 24000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth14.jpg"
+    },
+    {
+      "id": 24,
+      "category": "cloth",
+      "name": "Cloth 상품 15",
+      "description": "Cloth 카테고리의 상품 15입니다.",
+      "price": 25000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth15.jpg"
+    },
+    {
+      "id": 25,
+      "category": "cloth",
+      "name": "Cloth 상품 16",
+      "description": "Cloth 카테고리의 상품 16입니다.",
+      "price": 26000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth16.jpg"
+    },
+    {
+      "id": 26,
+      "category": "cloth",
+      "name": "Cloth 상품 17",
+      "description": "Cloth 카테고리의 상품 17입니다.",
+      "price": 27000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth17.jpg"
+    },
+    {
+      "id": 27,
+      "category": "cloth",
+      "name": "Cloth 상품 18",
+      "description": "Cloth 카테고리의 상품 18입니다.",
+      "price": 28000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth18.jpg"
+    },
+    {
+      "id": 28,
+      "category": "cloth",
+      "name": "Cloth 상품 19",
+      "description": "Cloth 카테고리의 상품 19입니다.",
+      "price": 29000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth19.jpg"
+    },
+    {
+      "id": 29,
+      "category": "cloth",
+      "name": "Cloth 상품 20",
+      "description": "Cloth 카테고리의 상품 20입니다.",
+      "price": 30000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth20.jpg"
+    },
+    {
+      "id": 30,
+      "category": "cloth",
+      "name": "Cloth 상품 21",
+      "description": "Cloth 카테고리의 상품 21입니다.",
+      "price": 31000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth21.jpg"
+    },
+    {
+      "id": 31,
+      "category": "cloth",
+      "name": "Cloth 상품 22",
+      "description": "Cloth 카테고리의 상품 22입니다.",
+      "price": 32000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/cloth22.jpg"
+    }
+  ]

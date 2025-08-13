@@ -1,0 +1,178 @@
+[
+    {
+      "id": 66,
+      "category": "shoes",
+      "name": "Shoes 상품 1",
+      "description": "Shoes 카테고리의 상품 1입니다.",
+      "price": 11000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes1.jpg"
+    },
+    {
+      "id": 67,
+      "category": "shoes",
+      "name": "Shoes 상품 2",
+      "description": "Shoes 카테고리의 상품 2입니다.",
+      "price": 12000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes2.jpg"
+    },
+    {
+      "id": 68,
+      "category": "shoes",
+      "name": "Shoes 상품 3",
+      "description": "Shoes 카테고리의 상품 3입니다.",
+      "price": 13000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes3.jpg"
+    },
+    {
+      "id": 69,
+      "category": "shoes",
+      "name": "Shoes 상품 4",
+      "description": "Shoes 카테고리의 상품 4입니다.",
+      "price": 14000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes4.jpg"
+    },
+    {
+      "id": 70,
+      "category": "shoes",
+      "name": "Shoes 상품 5",
+      "description": "Shoes 카테고리의 상품 5입니다.",
+      "price": 15000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes5.jpg"
+    },
+    {
+      "id": 71,
+      "category": "shoes",
+      "name": "Shoes 상품 6",
+      "description": "Shoes 카테고리의 상품 6입니다.",
+      "price": 16000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes6.jpg"
+    },
+    {
+      "id": 72,
+      "category": "shoes",
+      "name": "Shoes 상품 7",
+      "description": "Shoes 카테고리의 상품 7입니다.",
+      "price": 17000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes7.jpg"
+    },
+    {
+      "id": 73,
+      "category": "shoes",
+      "name": "Shoes 상품 8",
+      "description": "Shoes 카테고리의 상품 8입니다.",
+      "price": 18000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes8.jpg"
+    },
+    {
+      "id": 74,
+      "category": "shoes",
+      "name": "Shoes 상품 9",
+      "description": "Shoes 카테고리의 상품 9입니다.",
+      "price": 19000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes9.jpg"
+    },
+    {
+      "id": 75,
+      "category": "shoes",
+      "name": "Shoes 상품 10",
+      "description": "Shoes 카테고리의 상품 10입니다.",
+      "price": 20000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes10.jpg"
+    },
+    {
+      "id": 76,
+      "category": "shoes",
+      "name": "Shoes 상품 11",
+      "description": "Shoes 카테고리의 상품 11입니다.",
+      "price": 21000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes11.jpg"
+    },
+    {
+      "id": 77,
+      "category": "shoes",
+      "name": "Shoes 상품 12",
+      "description": "Shoes 카테고리의 상품 12입니다.",
+      "price": 22000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes12.jpg"
+    },
+    {
+      "id": 78,
+      "category": "shoes",
+      "name": "Shoes 상품 13",
+      "description": "Shoes 카테고리의 상품 13입니다.",
+      "price": 23000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes13.jpg"
+    },
+    {
+      "id": 79,
+      "category": "shoes",
+      "name": "Shoes 상품 14",
+      "description": "Shoes 카테고리의 상품 14입니다.",
+      "price": 24000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes14.jpg"
+    },
+    {
+      "id": 80,
+      "category": "shoes",
+      "name": "Shoes 상품 15",
+      "description": "Shoes 카테고리의 상품 15입니다.",
+      "price": 25000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes15.jpg"
+    },
+    {
+      "id": 81,
+      "category": "shoes",
+      "name": "Shoes 상품 16",
+      "description": "Shoes 카테고리의 상품 16입니다.",
+      "price": 26000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes16.jpg"
+    },
+    {
+      "id": 82,
+      "category": "shoes",
+      "name": "Shoes 상품 17",
+      "description": "Shoes 카테고리의 상품 17입니다.",
+      "price": 27000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes17.png"
+    },
+    {
+      "id": 83,
+      "category": "shoes",
+      "name": "Shoes 상품 18",
+      "description": "Shoes 카테고리의 상품 18입니다.",
+      "price": 28000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes18.jpg"
+    },
+    {
+      "id": 84,
+      "category": "shoes",
+      "name": "Shoes 상품 19",
+      "description": "Shoes 카테고리의 상품 19입니다.",
+      "price": 29000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes19.jpg"
+    },
+    {
+      "id": 85,
+      "category": "shoes",
+      "name": "Shoes 상품 20",
+      "description": "Shoes 카테고리의 상품 20입니다.",
+      "price": 30000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes20.jpg"
+    },
+    {
+      "id": 86,
+      "category": "shoes",
+      "name": "Shoes 상품 21",
+      "description": "Shoes 카테고리의 상품 21입니다.",
+      "price": 31000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes21.jpg"
+    },
+    {
+      "id": 87,
+      "category": "shoes",
+      "name": "Shoes 상품 22",
+      "description": "Shoes 카테고리의 상품 22입니다.",
+      "price": 32000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/shoes22.jpg"
+    }
+  ]

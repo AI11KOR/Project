@@ -17,6 +17,11 @@ const connectDB = async () => {
         db = client.db('forum');
         console.log('DB연결 성공');
 
+        console.log('✅ MONGO_ID:', process.env.MONGO_ID);
+        console.log('✅ MONGO_PASSWORD:', process.env.MONGO_PASSWORD);
+        console.log('✅ MONGO_CLUSTER:', process.env.MONGO_CLUSTER);
+        console.log('✅ MONGO_APPNAME:', process.env.MONGO_APPNAME);
+        
         return db;
     } catch (error) {
         console.log(error);

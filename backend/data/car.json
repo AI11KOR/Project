@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "category": "car",
+      "name": "Car 상품 1",
+      "description": "Car 카테고리의 상품 1입니다.",
+      "price": 11000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/car1.png"
+    },
+    {
+      "id": 2,
+      "category": "car",
+      "name": "Car 상품 2",
+      "description": "Car 카테고리의 상품 2입니다.",
+      "price": 12000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/car2.png"
+    },
+    {
+      "id": 3,
+      "category": "car",
+      "name": "Car 상품 3",
+      "description": "Car 카테고리의 상품 3입니다.",
+      "price": 13000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/car3.png"
+    },
+    {
+      "id": 4,
+      "category": "car",
+      "name": "Car 상품 4",
+      "description": "Car 카테고리의 상품 4입니다.",
+      "price": 14000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/car4.png"
+    },
+    {
+      "id": 5,
+      "category": "car",
+      "name": "Car 상품 5",
+      "description": "Car 카테고리의 상품 5입니다.",
+      "price": 15000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/car5.png"
+    },
+    {
+      "id": 6,
+      "category": "car",
+      "name": "Car 상품 6",
+      "description": "Car 카테고리의 상품 6입니다.",
+      "price": 16000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/car6.png"
+    },
+    {
+      "id": 7,
+      "category": "car",
+      "name": "Car 상품 7",
+      "description": "Car 카테고리의 상품 7입니다.",
+      "price": 17000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/car7.png"
+    },
+    {
+      "id": 8,
+      "category": "car",
+      "name": "Car 상품 8",
+      "description": "Car 카테고리의 상품 8입니다.",
+      "price": 18000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/car8.png"
+    },
+    {
+      "id": 9,
+      "category": "car",
+      "name": "Car 상품 9",
+      "description": "Car 카테고리의 상품 9입니다.",
+      "price": 19000,
+      "image": "https://woohyunapple.s3.ap-northeast-2.amazonaws.com/product/car9.png"
+    }
+  ]
